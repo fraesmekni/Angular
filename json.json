@@ -1,0 +1,46 @@
+
+
+
+{
+    "code": 1000, 
+    "descr":"ahlaV2",
+    "crédits":2000,
+    "nom": "mekni",
+    "prenom":"Fares",
+    "adresse":[{
+        "num_rue": 210,
+        "rue":" les jardins",
+        "ville":"Tunis",
+        "code_postal":"8100"},
+    {"num_rue": 211,
+    "rue":" centre ville",
+    "ville":"Tunis",
+    "code_postal":"8100"},
+{
+    "num_rue": 212,
+        "rue":" DEUTSH",
+        "ville":"Tunis",
+        "code_postal":"8100"
+}],
+   
+    "num_rue": 210,
+    "rue":" les jardins",
+    "ville":"Tunis",
+    "code_postal":"8100",
+    "prérequis":[{"code": 1000,
+        "titre":"ahla",
+        "descr":"ahlaV2",
+        "crédits":2000},
+    {"code": 1001,
+    "titre":"ahla1",
+    "descr":"ahlaV2",
+    "crédits":2001},
+{"code": 1002,
+"titre":"ahla2",
+"descr":"ahlaV2",
+"crédits":2002}],
+
+
+
+   "titre":["ahla","ahla1","ahla2"]
+}

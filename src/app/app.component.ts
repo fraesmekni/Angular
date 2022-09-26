@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'FirstApp';
+  ChangeColor='red';
+  constructor(){
+
+  }
+  firstMsg(){
+    console.log("bonjour");
+  }
 }
